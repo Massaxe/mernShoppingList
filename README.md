@@ -4,7 +4,7 @@
   </p>
 </div>
 
-<h2 align="center">Install</h2>
+<h2>Install</h2>
 
 Install with npm:
 
@@ -14,7 +14,7 @@ npm install && npm run client-install
 
 Enter MongoDB URI into config/key-template.js and then rename the file to key.js
 
-**Usage**
+<h2>Usage</h2>
 
 Run only server
 
